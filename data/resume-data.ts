@@ -4,7 +4,7 @@ export const basicInfo = {
   name: "Dhivakar Ramesh",
   title: "Software Engineer | Full-Stack & Backend Developer",
   location: "Binghamton, NY",
-  email: "dramesh25@my.trine.edu",
+  email: "letdhivaknow@gmail.com",
   phone: "+1 (607) 821 6280",
   linkedin: "https://www.linkedin.com/in/dhivakar-ramesh-0a09262a3",
 };
