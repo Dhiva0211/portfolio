@@ -43,9 +43,9 @@ export function SkillsSection() {
         </p>
         <div className="grid gap-3 md:grid-cols-2">
           <Card title="languages" items={skills.languages} />
-          <Card title="data & ml" items={skills.dataAndML} />
+          <Card title="data & ml" items={skills.dataAndDatabase} />
           <Card title="tools" items={skills.tools} />
-          <Card title="concepts" items={skills.concepts} />
+          <Card title="concepts" items={skills.backendAndAPIs} />
         </div>
       </motion.div>
     </section>
